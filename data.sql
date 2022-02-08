@@ -23,3 +23,14 @@ insert into usr (first_name, middle_name, last_name, email) values
 ('Кеша', 'Петрович', 'Зорин', 'zorin@my.example.com'),
 ('Люда', 'Петрович', 'Никонова', 'nikonova@my.example.com'),
 ('Максим', 'Петрович', 'Щипко', 'maximka@my.example.com');
+insert into usr (first_name, middle_name, last_name, e_mail, phone, birth_date, role_name) values
+('Надя', 'Ивановна', 'Залицина', 'zal@my.example.com', '+7(978)855-31-00', '2005-03-15', 'user'),
+('Александр', 'Андреевич', 'Земин', 'zel@my.example.com', '+7(978)855-31-01', '2005-03-15', 'user'),
+('Андрей', 'Максимович', 'Розин', 'roz@my.example.com', '+7(978)855-31-02', '2005-03-15', 'user'),
+('Милана', 'Романовна', 'Пурина', 'puri@my.example.com', '+7(978)855-31-03', '2005-03-15', 'user'),
+('Елена', 'Александровна', 'Лерина', 'lirinn@my.example.com', '+7(978)855-31-04', '2005-03-15', 'user'),
+('Юлия', 'Юрьевна', 'Фадина', 'fadina@my.example.com', '+7(978)855-31-05', '2005-03-15', 'user'),
+('Алекс', 'Иванович', 'Кондра', 'kondr@my.example.com', '+7(978)855-31-06', '2005-03-15', 'user'),
+('Данил', 'Иванович', 'Дёмин', 'demin@my.example.com', '+7(978)855-31-07', '2005-03-15', 'user'),
+('Иван', 'Степанович', 'Закин', 'zakin@my.example.com', '+7(978)855-31-08', '2005-03-15', 'user'),
+('Костя', 'Георгевич', 'Лупин', 'lupin@my.example.com', '+7(978)855-31-09', '2005-03-15', 'user');
